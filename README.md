@@ -1,2 +1,2 @@
 # Binary_Search
-A classic and simple algorithm solved by recursion and loops.
+Use two ways to implement binary search algorithm.

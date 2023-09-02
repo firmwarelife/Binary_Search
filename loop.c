@@ -8,7 +8,7 @@
 int binary_search(unsigned int * arr, int l, int u, int target)
 {
     int m ;
-    while(u > l){
+    while(u >= l){
         m = l + (u - l) / 2;
         if(arr[m] == target)
             return 1;
